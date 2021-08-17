@@ -28,12 +28,18 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 Nesse semestre teremos um novo **desafio** no desenvolvimento do projeto, onde vocês irão desenvolver um **Chatbot** usando qualquer tecnologia como o Java e o PHP. O uso de APIs e bibliotecas de terceiros é permitido, desde que ao menos 50% do desenvolvimento seja realizado sem o uso de **Frameworks**.
 
 ## Orientações
-Os grupos podem ser formados por **até 12 discentes**, apesar de trabalhos individuais também serem permitidos.
+Os grupos podem ser formados por **até 12 alunos/alunas**, apesar de **trabalhos individuais** também serem permitidos.
+
+O nome dos mebros do grupo serão entregues durante as pré-aulas em um formulário específico, cujo endereço será fornecido durante as aulas.
+
+Pode ser utilizada uma ou mais **Linguagens de Programação** como `Python`, `PHP`, `Java`, `Node.js`, entre outras.
 
 Deverão constar no trabalho final:
 * A descrição completa das etapas percorridas para o desenvolvimento do projeto, descrevendo-a individualmente para membro do grupo.
 * Funcionalidades que realizem a tarefa de um **Chatbot**, ficando livre a escolha para implementação da solução.
 * Também poderão ser desenvolvidos sistemas RPA (Automação).
+
+Será disponibilizado um **Modelo de Documentação** durante as aulas para a entrega final.
 
 ## Evolução do trabalho
 Durante as aulas serão discutidas a montagem dos grupos, orientações sobre a condução do trabalho e verificação do cumprimento das etapas discutidas anteriormente nas aulas.
@@ -45,7 +51,7 @@ Para **formalizar** a entrega do projeto, apenas um integrante do grupo (Líder)
  	* **Corpo da mensagem**:
     	* **Nome completo e RA de *cada um* dos integrantes do grupo** (EM ORDEM ALFABÉTICA).
 		* **Endereço do repositório no GitHub** com o conteúdo do projeto.
-		* **Endereço da aplicação **online**.
+		* **Endereço da aplicação *online***.
 
 ## Correção do Projeto
 A correção será feita tanto nos testes realizados de **online** como sobre os códigos fontes e documentação entregues.
