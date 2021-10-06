@@ -27,7 +27,10 @@ public class ChatServer {
 
             while (true) {
                 Socket socket = serverSocket.accept();
-                System.out.println("New user connected: ");
+
+                // Pegar o IP do client
+                InetAddress ip = socket.getInetAddress();
+                System.out.println("New user connected: [" + ip + "]");
 
                 UserThread newUser = new UserThread(socket, this);
                 userThreads.add(newUser);
